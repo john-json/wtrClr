@@ -1,5 +1,5 @@
 
-# shaunsingh/nord.nvim
+# john-json/wtrClr.nvim
 
 ## Neovim theme based off of the [Nord Color Palette.](https://www.nordtheme.com/docs/colors-and-palettes)
 
